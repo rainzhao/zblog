@@ -9,7 +9,7 @@
 title: rainZhao
 email: 695099976@qq.com
 description: rainzhao
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "rainzhao.github.io/zblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: none
 github_username:  rainzhao
