@@ -1,7 +1,7 @@
 ---
 layout: page
 title : 个人简历
-permalink: /about/
+permalink: /zblog/about/
 ---
 
 <link rel="stylesheet" type="text/css" href="../css/mystyle.css">
